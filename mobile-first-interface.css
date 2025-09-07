@@ -22,7 +22,7 @@ header {
 }
 
 .btn:hover {
-    background-color: #218838;
+    background-color: #1e7e34; /* Updated for better accessibility */
 }
 
 /* 响应式样式 */
